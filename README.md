@@ -1,9 +1,3 @@
-Perfeito — então vamos **criar o README do zero**, pensado **como projeto científico/engenharia**, alinhado com o **artigo da Jabuti DSL**, com boa apresentação para **GitHub, avaliadores, revisores e futuros usuários**.
-
-Abaixo está um **README completo, estruturado e pronto para colar** em `README.md`. Ele assume corretamente que **este repositório é o núcleo conceitual da linguagem**, e não a toolchain completa.
-
----
-
 # 🐢 Jabuti DSL
 
 **Jabuti DSL** is a **domain-specific language (DSL)** designed to specify **smart contracts for Enterprise Application Integration (EAI) processes**.
@@ -45,7 +39,7 @@ The Jabuti DSL aims to:
 
   * Obligations
   * Prohibitions
-  * Permissions
+  * Rights
 * 🧠 Clear separation between:
 
   * Contract specification
@@ -184,16 +178,5 @@ See the [LICENSE](LICENSE) file for details.
 ## 📬 Contact
 
 For questions, collaboration, or research discussions, please contact the maintainers of the **GCA Research Group**.
-
----
-
-Se quiser, no próximo passo eu posso:
-
-* 🔧 **Adaptar o README para um foco mais “tool-oriented”**
-* 📄 **Criar uma versão curta (README acadêmico minimalista)**
-* 🏷 **Adicionar badges (license, research, status)**
-* 🧠 **Alinhar o texto exatamente com o artigo da *Software: Practice and Experience***
-
-É só dizer como você quer posicionar o projeto 👌
 
  
